@@ -1,0 +1,8 @@
+---
+title: Name of new post
+author: ~
+date: '2019-09-30'
+slug: name-of-new-post
+categories: []
+tags: []
+---
